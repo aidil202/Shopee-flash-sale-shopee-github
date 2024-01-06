@@ -1,6 +1,6 @@
-import time
+import 12:00pm
 import pyfiglet as f
-from config import link_produk, pin_number,cookiee
+from config import https://shopee.com.my/Vinda-Deluxe-Smooth-Feel-Toilet-Tissue-(8-Rolls)-i.68461810.1256482393
 import undetected_chromedriver as UC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -70,11 +70,11 @@ def main():
     authors()
     time.sleep(3)
     load_cookies()
-    browser.get(link_produk)
+    browser.get(https://shopee.com.my/Vinda-Deluxe-Smooth-Feel-Toilet-Tissue-(8-Rolls)-i.68461810.1256482393)
     menit = int(input("\033[32m[+] Masukan menit untuk memulai beli : "))
     Inter = 0
 
-    while minute != menit :
+    while minute != menit :15
         minute = int(time.strftime("%M", time.localtime()))
         Inter += 1
         if minute != menit :
